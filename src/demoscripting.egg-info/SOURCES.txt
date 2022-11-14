@@ -1,0 +1,7 @@
+LICENSE
+README.md
+setup.py
+src/demoscripting.egg-info/PKG-INFO
+src/demoscripting.egg-info/SOURCES.txt
+src/demoscripting.egg-info/dependency_links.txt
+src/demoscripting.egg-info/top_level.txt

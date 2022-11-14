@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: demoscripting
+Version: 0.0.1
+Summary: demo how to create custon pakage 
+Home-page: https://github.com/manisantoshthaddi/scriptdemo
+Author: Manisantosh Thaddi
+Author-email: mani.thaddi@infor.com
+License: MIT
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT Licenese
+Classifier: Programing Language :: Python :: 3
+Classifier: Operating System :: OS Indipendent
+Description-Content-Type: text/markdowm
+License-File: LICENSE
+
+#demo cos package
+
